@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+starlette
+Jinja2
+python-jose
+passlib
+pymongo[srv]
